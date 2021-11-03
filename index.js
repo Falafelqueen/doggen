@@ -74,4 +74,5 @@ restartBtn.addEventListener("click", () => {
   form.classList.remove("hidden");
   correctAnswer.classList.add("hidden");
   fetchDog();
+  restartBtn.classList.add("hidden");
 });
