@@ -16,6 +16,14 @@ margin: 50px auto;
 border-radius: 5px;
 }
 
+@media (max-width:600px)
+{
+ .random-dog{
+  height:100px;
+  width:100px;
+  margin:15px auto;
+ }
+}
 .container{
  margin:25px auto;
  display:flex;
