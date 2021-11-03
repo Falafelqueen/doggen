@@ -19,8 +19,8 @@ border-radius: 5px;
 @media (max-width:600px)
 {
  .random-dog{
-  height:auto;
-  width:80%;
+  height:100px;
+  width:100px;
   margin:15px auto;
  }
 }
